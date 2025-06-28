@@ -43,7 +43,6 @@ form .display input{
     width: 80px;
     border-radius: 5px;
     box-shadow: -5px -5px 10px rgb(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
-    /* box-shadow: none; */
 }
 form input.operator{
     color: rgb(8, 132, 78);
